@@ -37,5 +37,7 @@ func main() {
 ```
 
 ```
-$ go run example.go                                                             fileid.Query=da0000000158ac                                                     ファイル ID は 0x000000000000000000da0000000158ac です      
+$ go run example.go
+fileid.Query=da0000000158ac
+ファイル ID は 0x000000000000000000da0000000158ac です
 ```
