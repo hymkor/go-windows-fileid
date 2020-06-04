@@ -3,6 +3,9 @@ go-windows-fileid
 
 Query File-ID. File-ID is the number like i-node on Windows.
 
+On Windows, Query(fname) returns File-ID.
+On UNIX, Query(fname) returns i-node.
+
 ```go
 package main
 
